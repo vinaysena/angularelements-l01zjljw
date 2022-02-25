@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/vinaysena.angularelements-l01zjljw",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve IznKuvKj9yHn178NOxoH --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
